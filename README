@@ -1,0 +1,7 @@
+Códigos em Fortran90 para a solução numérica da equação TOV, para as anãs brancas e estrelas estranhas.
+
+Programa TOV-wd.f90 - Utilizado para gerar os dados da curva newtoniana (curva tracejada) e da curva TOV (curva cheia) na Fig.3. Nota: para o caso newtoniano basta remover as correções relativística da TOV.
+Programa MQ-mpXr.f90 - Utilizado para gerar os dados do limite ultrarrelativístico (curvas vermelhas pontilhadas) na Fig. 8.
+Programa T0-mpXr.f90 - Utilizado para gerar os dados do caso relativístico (curva azul cheia) na Fig. 8.
+Programa MQ-MRxp0.f90 - Utilizado para gerar os dados no limite ultrarrelativístico (curvas vermelhas tracejadas) nas Figs. 9 e 10.
+Programa T0-MRxp0.f90 - Utilizado para gerar os dados no caso relativístico (curva azul cheia) nas Figs. 9 e 10. Também utilizado para os diferentes valores de B, na Fig. 11.
