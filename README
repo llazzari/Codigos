@@ -4,4 +4,5 @@ Programa TOV-wd.f90 - Utilizado para gerar os dados da curva newtoniana (curva t
 Programa MQ-mpXr.f90 - Utilizado para gerar os dados do limite ultrarrelativístico (curvas vermelhas pontilhadas) na Fig. 8.
 Programa T0-mpXr.f90 - Utilizado para gerar os dados do caso relativístico (curva azul cheia) na Fig. 8.
 Programa MQ-MRxp0.f90 - Utilizado para gerar os dados no limite ultrarrelativístico (curvas vermelhas tracejadas) nas Figs. 9 e 10.
-Programa T0-MRxp0.f90 - Utilizado para gerar os dados no caso relativístico (curva azul cheia) nas Figs. 9 e 10. Também utilizado para os diferentes valores de B, na Fig. 11.
+Programa T0-MRxp0.f90 - Utilizado para gerar os dados no caso relativístico (curva azul cheia) nas Figs. 9 e 10. Também utilizado para os diferentes valores de B, na Fig. 11. Utilizado para obtenção dos dados sem elétrons na Fig. 12. 
+Programas population.f90 e-MRxp0.f90 - Utilizados para gerar a equação de estado em forma de tabela e os dados para a Fig. 12, respectivamente. 
